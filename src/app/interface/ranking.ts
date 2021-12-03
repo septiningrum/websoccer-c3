@@ -1,8 +1,8 @@
-export interface Rangking {
+export interface Ranking {
     TeamName: string,
     GamesPlayed: number,
-    wins : number,
+    Wins  : number,
     Ties : number,
     GoalsFor: number,
-    GoalsAgaints: number
+    GoalsAgaints:number
 }
